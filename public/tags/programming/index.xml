@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Lightbi</title>
+    <link>http://localhost:1313/tags/programming/</link>
+    <description>Recent content in Programming on Lightbi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
+    <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
+    <lastBuildDate>Fri, 24 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9 Bài Học Quan Trọng Về Java</title>
+      <link>http://localhost:1313/post/2024/baiviet1/</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
+      <guid>http://localhost:1313/post/2024/baiviet1/</guid>
+      <description>&lt;p&gt;Java là một ngôn ngữ lập trình phổ biến với hàng triệu lập trình viên trên toàn thế giới. Trong bài viết này, chúng ta sẽ khám phá 9 bài học quan trọng nhất để làm chủ Java.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
