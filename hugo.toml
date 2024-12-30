@@ -1,4 +1,4 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL = "https://nguyenquangtrai.github.io/nguyenquangtrai03/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
@@ -75,7 +75,10 @@ showPostImage = false
   #bitbucket = "username"
   #soundcloud = "username"
   # codepen = "username"
-
+[utterances]
+    owner = "nguyenquangtrai"
+    repo = "nguyenquangtrai03"
+    
 [[menu.main]]
     name = "Trang chủ"
     url = "/"

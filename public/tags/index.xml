@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nguyễn Quang Trãi</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:1313/nguyenquangtrai03/tags/</link>
     <description>Recent content in Tags on Nguyễn Quang Trãi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>sample@gmail.com (Bino Kochumol Varghese)</managingEditor>
     <webMaster>sample@gmail.com (Bino Kochumol Varghese)</webMaster>
     <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nguyenquangtrai03/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biến</title>
-      <link>http://localhost:1313/tags/bi%E1%BA%BFn/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/bi%E1%BA%BFn/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/bi%E1%BA%BFn/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/bi%E1%BA%BFn/</guid>
       <description></description>
     </item>
     <item>
       <title>Cấu Trúc</title>
-      <link>http://localhost:1313/tags/c%E1%BA%A5u-tr%C3%BAc/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/c%E1%BA%A5u-tr%C3%BAc/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/c%E1%BA%A5u-tr%C3%BAc/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/c%E1%BA%A5u-tr%C3%BAc/</guid>
       <description></description>
     </item>
     <item>
       <title>Chương Trình</title>
-      <link>http://localhost:1313/tags/ch%C6%B0%C6%A1ng-tr%C3%ACnh/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/ch%C6%B0%C6%A1ng-tr%C3%ACnh/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/ch%C6%B0%C6%A1ng-tr%C3%ACnh/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/ch%C6%B0%C6%A1ng-tr%C3%ACnh/</guid>
       <description></description>
     </item>
     <item>
       <title>Điều Kiện</title>
-      <link>http://localhost:1313/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/%C4%91i%E1%BB%81u-ki%E1%BB%87n/</guid>
       <description></description>
     </item>
     <item>
       <title>Đối Tượng</title>
-      <link>http://localhost:1313/tags/%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/java/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Kế Thừa</title>
-      <link>http://localhost:1313/tags/k%E1%BA%BF-th%E1%BB%ABa/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/k%E1%BA%BF-th%E1%BB%ABa/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/k%E1%BA%BF-th%E1%BB%ABa/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/k%E1%BA%BF-th%E1%BB%ABa/</guid>
       <description></description>
     </item>
     <item>
       <title>Kiểu Dữ Liệu</title>
-      <link>http://localhost:1313/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
       <description></description>
     </item>
     <item>
       <title>Lập Trình</title>
-      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       <description></description>
     </item>
     <item>
       <title>Lớp</title>
-      <link>http://localhost:1313/tags/l%E1%BB%9Bp/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/l%E1%BB%9Bp/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/l%E1%BB%9Bp/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/l%E1%BB%9Bp/</guid>
       <description></description>
     </item>
     <item>
       <title>Newsletter</title>
-      <link>http://localhost:1313/tags/newsletter/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/newsletter/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/newsletter/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/newsletter/</guid>
       <description></description>
     </item>
     <item>
       <title>Ngoại Lệ</title>
-      <link>http://localhost:1313/tags/ngo%E1%BA%A1i-l%E1%BB%87/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/ngo%E1%BA%A1i-l%E1%BB%87/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/ngo%E1%BA%A1i-l%E1%BB%87/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/ngo%E1%BA%A1i-l%E1%BB%87/</guid>
       <description></description>
     </item>
     <item>
       <title>Ngôn Ngữ</title>
-      <link>http://localhost:1313/tags/ng%C3%B4n-ng%E1%BB%AF/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/ng%C3%B4n-ng%E1%BB%AF/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/ng%C3%B4n-ng%E1%BB%AF/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/ng%C3%B4n-ng%E1%BB%AF/</guid>
       <description></description>
     </item>
     <item>
       <title>Phương Thức</title>
-      <link>http://localhost:1313/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</guid>
       <description></description>
     </item>
     <item>
       <title>Vòng Lặp</title>
-      <link>http://localhost:1313/tags/v%C3%B2ng-l%E1%BA%B7p/</link>
+      <link>http://localhost:1313/nguyenquangtrai03/tags/v%C3%B2ng-l%E1%BA%B7p/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><author>sample@gmail.com (Bino Kochumol Varghese)</author>
-      <guid>http://localhost:1313/tags/v%C3%B2ng-l%E1%BA%B7p/</guid>
+      <guid>http://localhost:1313/nguyenquangtrai03/tags/v%C3%B2ng-l%E1%BA%B7p/</guid>
       <description></description>
     </item>
   </channel>
